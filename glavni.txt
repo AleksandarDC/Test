@@ -1,0 +1,8 @@
+tar xvzf tornado-4.4.1.tar.gz
+cd tornado-4.4.1
+python setup.py build
+sudo python setup.py install
+
+Prerequisites: Tornado 4.3 runs on Python 2.7, and 3.3+ For Python 2, version 2.7.9 or newer is strongly recommended for the improved SSL support. In addition to the requirements which will be installed automatically by pip or setup.py install, the following optional packages may be useful:
+
+ovov je neka mala promena
